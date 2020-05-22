@@ -1,5 +1,3 @@
-[![License](https://img.shields.io/pypi/l/pandas.svg)](https://github.com/pandas-dev/pandas/blob/master/LICENSE)
-
 ![](./assets/ITDP_PrestigeLogo.png)
 
 # COVID-19 lockdown and its effect on pollution levels in Mexico City
