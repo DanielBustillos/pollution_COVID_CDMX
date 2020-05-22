@@ -2,11 +2,11 @@
 
 ![](./assets/ITDP_PrestigeLogo.png)
 
-# COVID-19 lockdown and its effect on pollution levels in Mexico city
+# COVID-19 lockdown and its effect on pollution levels in Mexico City
 ## Developed by [ITDP Mexico](http://mexico.itdp.org)
 **Status:** beta
 
-This repository contains a short analysis of the effect of the COVID-19 lockdown in the pollution levels of the Metropolitan Area of Mexico City. The data was obtained by the [Mexico City Secretary of the Environment (Secretaría del Medio Ambiente)](http://www.aire.cdmx.gob.mx/default.php).
+This repository contains a brief analysis of the effect of the COVID-19 lockdown in the pollution levels of the Metropolitan Area of Mexico City. The data was obtained from the Mexico City Secretary of the Environment [portal (Secretaría del Medio Ambiente)](http://www.aire.cdmx.gob.mx/default.php).
 
 
 This analysis studies the change caused.... in the last 5 years (2015-2020)... COMPLETE
@@ -29,4 +29,4 @@ Team Leads (Contacts) :
 Air Quality and Transport Analyst
   - lizeth.huerta@itdp.org
 
-*Correspondence to this address
+*Correspondence
